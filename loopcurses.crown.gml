@@ -1,5 +1,5 @@
 #define crown_take
-
+sound_play(sndCrownCurses)
 GameCont.crown = crwn_curses
 #define step
     with Crown{
